@@ -1,4 +1,6 @@
 # credit-risk-model-logistic-regression
+My contribution :- I have implemented and understood the concepts of credit risk modelling through the following course - https://www.udemy.com/course/credit-risk-modeling-in-python/ . This project has no novelty , it is a hands-on project to practically understand the concepts. Code's owner rights are with the course instructor.
+
 - Credit risk models predict the likelihood of a customer to miss the loan repayments. They assess the repayment behaviour of an individual depending on the customer's credit history.
 
 #### Step by step process of building a credit risk model :- 
